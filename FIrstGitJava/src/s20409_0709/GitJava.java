@@ -6,6 +6,8 @@ public class GitJava {
 		// TODO Auto-generated method stub
 
 		System.out.println("로봇고 2학년 4반 9번 박기범입니다.");
+		
+		System.out.println("수정합ㄴ디ㅏ");
 	}
 
 }
